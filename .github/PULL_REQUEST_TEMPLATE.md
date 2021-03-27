@@ -1,1 +1,20 @@
-Non-security issues and pull requests are no longer being accepted for the legacy PHPMailer 5.2 branch. Migrate to PHPMailer 6.0 (or later) and report your issue there.
+Pull Request for CMS Issue #
+
+### Summary of Changes
+
+
+
+### Testing Instructions
+
+
+
+### Actual result BEFORE applying this Pull Request
+
+
+
+### Expected result AFTER applying this Pull Request
+
+
+
+### Documentation Changes Required
+

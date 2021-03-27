@@ -1,3 +1,11 @@
+# Joomla PHPMailer Backports
+
+This is a fork of PHPMailer/PHPMailer. The original library version 5.2 is no longer supported by the original project, however we are using it in Joomla 3 and need to make it compatible with the PHP versions we are supporting.
+
+We are only going to maintain this library until the EOL of Joomla 3! We also don't guarantee any bug fixes or new features.
+
+Following you can read the original project description:
+
 ![PHPMailer](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
 
 # PHPMailer - A full-featured email creation and transfer class for PHP
